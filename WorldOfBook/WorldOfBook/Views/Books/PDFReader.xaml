@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="WorldOfBook.PDFReader"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:WorldOfBook"
+        mc:Ignorable="d" 
+        d:DesignHeight="550" d:DesignWidth="940">
+    <Grid ScrollViewer.CanContentScroll="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel  Grid.Column="1" Grid.Row="1" ScrollViewer.CanContentScroll="True" >
+            <TextBox x:Name="Reader" FontSize="20" Text="" TextWrapping="Wrap" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Height="484" ScrollViewer.VerticalScrollBarVisibility="Visible" />
+        </StackPanel>
+    </Grid>
+</UserControl>

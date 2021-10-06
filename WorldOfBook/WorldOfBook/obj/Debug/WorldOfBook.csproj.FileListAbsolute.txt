@@ -1,0 +1,126 @@
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.csprojAssemblyReference.cache
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\MainWindow.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\App.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook_MarkupCompile.cache
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook_MarkupCompile.lref
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Admin.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Admin1.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\AuthorElem.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Authorization.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\MyAccount.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Registration.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\SettingWindow.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\WorldOfBook.exe.config
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\WorldOfBook.exe
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\WorldOfBook.pdb
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\BouncyCastle.Crypto.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\EntityFramework.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\itextsharp.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\MaterialDesignColors.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\WpfAnimatedGif.dll
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\EntityFramework.xml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\itextsharp.xml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\MaterialDesignColors.pdb
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\WpfAnimatedGif.pdb
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\bin\Debug\WpfAnimatedGif.xml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\App.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\MainWindow.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Admin.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Admin1.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\AuthorElem.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Authorization.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\MyAccount.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Registration.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\SettingWindow.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.g.resources
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.Properties.Resources.resources
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.csproj.GenerateResource.cache
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.csproj.CoreCompileInputs.cache
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.csproj.CopyComplete
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.exe
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\WorldOfBook.pdb
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\WorldOfBook.exe.config
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\WorldOfBook.exe
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\WorldOfBook.pdb
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\BouncyCastle.Crypto.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\EntityFramework.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\itextsharp.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\MaterialDesignColors.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\WpfAnimatedGif.dll
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\EntityFramework.xml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\itextsharp.xml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\MaterialDesignColors.pdb
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\WpfAnimatedGif.pdb
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\bin\Debug\WpfAnimatedGif.xml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.csprojAssemblyReference.cache
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\MainWindow.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Admin.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Admin1.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\AuthorElem.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Authorization.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\BookElem.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\MyAccount.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\MyBooks.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\PDFReader.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\ReadyToRead.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Registration.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\SearchBooks.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\SelectedBook.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\SettingWindow.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\App.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook_MarkupCompile.cache
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook_MarkupCompile.lref
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\App.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\MainWindow.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Admin.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Admin1.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\AuthorElem.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Authorization.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\BookElem.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\MyAccount.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\MyBooks.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\PDFReader.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\ReadyToRead.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\Registration.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\SearchBooks.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\SelectedBook.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\SettingWindow.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.g.resources
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.Properties.Resources.resources
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.csproj.GenerateResource.cache
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.csproj.CoreCompileInputs.cache
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.csproj.CopyComplete
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.exe
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\WorldOfBook.pdb
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\BlockUsers.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\BlockUsers.baml
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\UserElem.g.cs
+D:\Лабы\курсач\WorldOfBook — копия\WorldOfBook\obj\Debug\Views\UserElem.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Users\UsersPage.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Users\UserElem.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Users\UsersPage.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Users\UserElem.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Users\SelectedUser.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\BookElem.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\MyBooks.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\PDFReader.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\ReadyToRead.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\SearchBooks.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\SelectedBook.g.cs
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Users\SelectedUser.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\BookElem.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\MyBooks.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\PDFReader.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\ReadyToRead.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\SearchBooks.baml
+D:\Лабы\курсач\WorldOfBook\WorldOfBook\obj\Debug\Views\Books\SelectedBook.baml
